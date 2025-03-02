@@ -1,0 +1,24 @@
+.get-task-container {
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+  }
+  .get-task-container input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  .get-task-container button {
+    padding: 10px 15px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .json-viewer {
+    margin-top: 20px;
+    background: #f4f4f4;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: left;
+  }
+  
